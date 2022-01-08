@@ -1,10 +1,7 @@
-<h1 align="left">Hey Dear 👋, I'm Daniel Pontes</h1>
-<h3 align="left">A front-end, back-end, and mobile developer passionate about technology and development directly from Brazil.</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deslandev&label=Profile%20views&color=0e75b6&style=flat" alt="deslandev" /> </p>
-
+<p align="center">
+  <img src="https://github.com/deslandev/deslandev/raw/main/assets/header.gif" alt="Hi, I'm Daniel👋 ">
+</p>
 
 
 <h3 align="left">Skils:</h3>
@@ -14,7 +11,7 @@
 
 <h3 align="left">Metrics:</h3>
 <p><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=deslandev&show_icons=true&locale=en" alt="deslandev" /></p>
-<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=deslandev&" alt="deslandev" /></p>
+<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=deslandev&" alt="deslandev" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +23,10 @@
 
 
 
-<h3 align="left">
+<h3 align="center">
 help-me! spread open knowledge around the world
 </h3>
 <p><a href="https://www.buymeacoffee.com/deslandev"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deslandev" />
   
-</a><a href="https://ko-fi.com/deslandev"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deslandev" /></a></p><br><br>
+</a><a href="https://ko-fi.com/deslandev"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deslandev" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deslandev&label=Profile%20views&color=0e75b6&style=flat" alt="deslandev" /> </p>
