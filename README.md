@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/deslandev/deslandev/raw/main/assets/header.gif" alt="Hi, I'm Daniel👋 ">
+  <img src="https://github.com/deslandev/deslandev/assets/header_github.gif" alt="Hi, I'm Daniel👋 ">
 </p>
 
 
