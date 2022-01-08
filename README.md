@@ -20,3 +20,8 @@
 <a href="https://instagram.com/deslandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deslandev" height="30" width="40" /></a>
 <a href="https://discord.gg/#7081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7081" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">
+help-me! spread open knowledge around the world
+</h3>
+<p><a href="https://www.buymeacoffee.com/deslandev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deslandev" /></a><a href="https://ko-fi.com/deslandev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="deslandev" /></a></p><br><br>
