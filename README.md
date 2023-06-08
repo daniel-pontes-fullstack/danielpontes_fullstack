@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://twitter.com/deslandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deslandev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/daniel-santos-67884a1a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deslandev" height="30" width="40" /></a>
-<a href="https://instagram.com/_deslandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deslandev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/deslandev_official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deslandev" height="30" width="40" /></a>
 <a href="mailto:deslandev@gmail.com"><img align="center" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="35" width="40"/></a>
 </p>
 
