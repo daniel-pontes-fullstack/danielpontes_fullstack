@@ -4,8 +4,8 @@ Hi, I'm Daniel Santos, I am a dev passionate about technology!
 
 This is the space where I spend most of my time where, imagination and creativity become code.
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/daniel-santos-deslan)
-- 📫 How to reach me: [@_rodolfomori](https://www.instagram.com/deslandev_official);
+- 💬 Ask me about anything [Daniel Santos](https://www.linkedin.com/in/daniel-santos-deslan)
+- 📫 How to reach me: [@Deslan](https://www.instagram.com/deslandev_official);
 
 
 <br />
