@@ -1,12 +1,12 @@
 ### Hi there 😎
 
-Hi, I'm Daniel Santos, I am a dev passionate about technology!
+Hi, I'm Daniel Pontes, I am a dev passionate about technology!
 
 This is the space where I spend most of my time where, imagination and creativity become code.
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/daniel-santos-deslan)
-- 📫 How to reach me: [@DeslanDEV](https://www.instagram.com/deslandev_official)
-- 🌐 Visit my website: [www.deslandev.com.br](https://deslandev.com.br/)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/daniel-pontes-fullstack/)
+- 📫 How to reach me: [@DeslanDEV](https://www.instagram.com/danielpontes_fullstack/)
+- 🌐 Visit my website: [www.deslandev.com.br](https://danielpontes.online/)
 
 
 <br />
@@ -14,10 +14,10 @@ This is the space where I spend most of my time where, imagination and creativit
 ### Connect with me:
 
 <p>
-<a href="https://www.instagram.com/deslandev_official">
+<a href="https://www.instagram.com/danielpontes_fullstack/">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/daniel-santos-deslan">
+<a href="https://www.linkedin.com/in/daniel-pontes-fullstack/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
