@@ -5,8 +5,8 @@ Hi, I'm Daniel Pontes, I am a dev passionate about technology!
 This is the space where I spend most of my time where, imagination and creativity become code.
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/daniel-pontes-fullstack/)
-- 📫 How to reach me: [@DeslanDEV](https://www.instagram.com/danielpontes_fullstack/)
-- 🌐 Visit my website: [www.deslandev.com.br](https://danielpontes.online/)
+- 📫 How to reach me: [@danielpontes_fullstack](https://www.instagram.com/danielpontes_fullstack/)
+- 🌐 Visit my website: [danielpontes.online](https://danielpontes.online/)
 
 
 <br />
